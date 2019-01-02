@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>卫一旻的博客</title>
+  <id>http://www.chole.io/blog</id>
+  <updated>2017-12-31T17:05:33+08:00</updated>
+  <subtitle>我的博客，不需要副标题。</subtitle>
+  <link href="http://www.chole.io/blog"></link>
+  <author>
+    <name>卫一旻的博客</name>
+  </author>
+  <entry>
+    <title>2017年年度总结</title>
+    <updated>2017-12-31T16:39:00+08:00</updated>
+    <id>tag:www.chole.io,2017-12-31:/blog/2017年年度总结.html</id>
+    <content type="html">&lt;p&gt;总结一下2017年发生的各种事情，并且对2018年做一个展望。&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/2017年年度总结.html"></link>
+    <author>
+      <name>卫一旻</name>
+    </author>
+  </entry>
+</feed>
